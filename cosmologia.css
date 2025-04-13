@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(105, 41, 165, 0.637);
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+h1{
+    color: black;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
